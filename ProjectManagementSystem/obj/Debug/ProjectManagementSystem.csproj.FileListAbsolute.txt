@@ -1,0 +1,92 @@
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\Kauno kolegija programu sistemos\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursiniui\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\T\Desktop\Kursinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Kursinis\KursinisGalutinis\ProjectManagementSystem - Copy\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\K\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\T\Desktop\K\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\K\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\K\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form3.resources
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\T\Desktop\Project_Management_System\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
